@@ -1,8 +1,5 @@
 # F5-G5-ZZChat
-Source code for ZZchat web site development
+Source code for a simple chat web app using native Php and Javascript(jQuery) with no frameworks.
 
 NAHHAS Amin-Ahmed
-VILMIN Simon
-
-https://github.com/SimVil/F5-G5-ZZChat
-
+VILMIN Simon (https://github.com/SimVil/)
